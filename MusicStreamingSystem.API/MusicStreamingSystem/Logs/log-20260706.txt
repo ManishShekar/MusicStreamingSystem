@@ -1,0 +1,114 @@
+2026-07-06 09:44:52 [INF] Starting Music Streaming API
+2026-07-06 09:48:22 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 09:48:23 [INF] Retrieved all artists successfully.
+2026-07-06 09:48:23 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 09:48:23 [INF] Retrieved all artists successfully.
+2026-07-06 09:48:23 [INF] Albums retrieved successfully for ArtistId: 12
+2026-07-06 09:48:23 [INF] Albums retrieved successfully for ArtistId: 10
+2026-07-06 09:48:23 [INF] Albums retrieved successfully for ArtistId: 8
+2026-07-06 09:48:23 [INF] Albums retrieved successfully for ArtistId: 9
+2026-07-06 09:48:24 [INF] Albums retrieved successfully for ArtistId: 10
+2026-07-06 09:48:24 [INF] Albums retrieved successfully for ArtistId: 12
+2026-07-06 09:48:24 [INF] Albums retrieved successfully for ArtistId: 8
+2026-07-06 09:48:24 [INF] Albums retrieved successfully for ArtistId: 9
+2026-07-06 09:48:25 [INF] Fetching artist(s). ArtistId: 8
+2026-07-06 09:48:26 [INF] Albums retrieved successfully for ArtistId: 8
+2026-07-06 09:48:26 [INF] Artist retrieved successfully. ArtistId: 8
+2026-07-06 09:48:26 [INF] Fetching artist(s). ArtistId: 8
+2026-07-06 09:48:26 [INF] Artist retrieved successfully. ArtistId: 8
+2026-07-06 09:48:26 [INF] Albums retrieved successfully for ArtistId: 8
+2026-07-06 09:48:28 [INF] Album retrieved successfully. AlbumId: 8
+2026-07-06 09:48:28 [INF] Songs retrieved successfully.
+2026-07-06 09:48:28 [INF] Album retrieved successfully. AlbumId: 8
+2026-07-06 09:48:28 [INF] Songs retrieved successfully.
+2026-07-06 09:48:29 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 09:48:29 [INF] Retrieved all artists successfully.
+2026-07-06 09:48:29 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 09:48:29 [INF] Retrieved all artists successfully.
+2026-07-06 09:48:29 [INF] Albums retrieved successfully for ArtistId: 8
+2026-07-06 09:48:29 [INF] Albums retrieved successfully for ArtistId: 12
+2026-07-06 09:48:29 [INF] Albums retrieved successfully for ArtistId: 9
+2026-07-06 09:48:29 [INF] Albums retrieved successfully for ArtistId: 10
+2026-07-06 09:48:30 [INF] Albums retrieved successfully for ArtistId: 12
+2026-07-06 09:48:30 [INF] Albums retrieved successfully for ArtistId: 10
+2026-07-06 09:48:30 [INF] Albums retrieved successfully for ArtistId: 8
+2026-07-06 09:48:30 [INF] Albums retrieved successfully for ArtistId: 9
+2026-07-06 09:48:31 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 09:48:31 [INF] Retrieved all artists successfully.
+2026-07-06 09:48:31 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 09:48:31 [INF] Retrieved all artists successfully.
+2026-07-06 09:54:27 [INF] Starting Music Streaming API
+2026-07-06 09:55:02 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 09:55:03 [INF] Retrieved all artists successfully.
+2026-07-06 09:55:03 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 09:55:03 [INF] Retrieved all artists successfully.
+2026-07-06 09:55:04 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 09:55:04 [INF] Retrieved all artists successfully.
+2026-07-06 09:55:04 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 09:55:05 [INF] Retrieved all artists successfully.
+2026-07-06 09:55:05 [INF] Albums retrieved successfully for ArtistId: 12
+2026-07-06 09:55:05 [INF] Albums retrieved successfully for ArtistId: 8
+2026-07-06 09:55:05 [INF] Albums retrieved successfully for ArtistId: 10
+2026-07-06 09:55:05 [INF] Albums retrieved successfully for ArtistId: 9
+2026-07-06 09:55:05 [INF] Albums retrieved successfully for ArtistId: 8
+2026-07-06 09:55:05 [INF] Albums retrieved successfully for ArtistId: 9
+2026-07-06 09:55:05 [INF] Albums retrieved successfully for ArtistId: 10
+2026-07-06 09:55:05 [INF] Albums retrieved successfully for ArtistId: 12
+2026-07-06 09:55:06 [INF] Album retrieved successfully. AlbumId: 8
+2026-07-06 09:55:06 [INF] Songs retrieved successfully.
+2026-07-06 09:55:06 [INF] Album retrieved successfully. AlbumId: 8
+2026-07-06 09:55:06 [INF] Songs retrieved successfully.
+2026-07-06 09:55:08 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 09:55:08 [INF] Retrieved all artists successfully.
+2026-07-06 09:55:08 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 09:55:08 [INF] Retrieved all artists successfully.
+2026-07-06 09:55:08 [INF] Albums retrieved successfully for ArtistId: 8
+2026-07-06 09:55:08 [INF] Albums retrieved successfully for ArtistId: 10
+2026-07-06 09:55:08 [INF] Albums retrieved successfully for ArtistId: 12
+2026-07-06 09:55:08 [INF] Albums retrieved successfully for ArtistId: 9
+2026-07-06 09:55:09 [INF] Albums retrieved successfully for ArtistId: 10
+2026-07-06 09:55:09 [INF] Albums retrieved successfully for ArtistId: 8
+2026-07-06 09:55:09 [INF] Albums retrieved successfully for ArtistId: 12
+2026-07-06 09:55:09 [INF] Albums retrieved successfully for ArtistId: 9
+2026-07-06 10:48:51 [INF] Starting Music Streaming API
+2026-07-06 10:49:42 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 10:49:42 [INF] Retrieved all artists successfully.
+2026-07-06 10:49:42 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 10:49:43 [INF] Retrieved all artists successfully.
+2026-07-06 10:49:43 [INF] Albums retrieved successfully for ArtistId: 9
+2026-07-06 10:49:43 [INF] Albums retrieved successfully for ArtistId: 10
+2026-07-06 10:49:43 [INF] Albums retrieved successfully for ArtistId: 12
+2026-07-06 10:49:43 [INF] Albums retrieved successfully for ArtistId: 8
+2026-07-06 10:49:43 [INF] Albums retrieved successfully for ArtistId: 12
+2026-07-06 10:49:43 [INF] Albums retrieved successfully for ArtistId: 8
+2026-07-06 10:49:43 [INF] Albums retrieved successfully for ArtistId: 10
+2026-07-06 10:49:43 [INF] Albums retrieved successfully for ArtistId: 9
+2026-07-06 10:51:24 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 10:51:24 [INF] Retrieved all artists successfully.
+2026-07-06 10:51:24 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 10:51:24 [INF] Retrieved all artists successfully.
+2026-07-06 10:52:17 [INF] User logged in successfully. UserId: 1, Email: admin@gmail.com
+2026-07-06 10:52:17 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 10:52:17 [INF] Retrieved all artists successfully.
+2026-07-06 10:52:17 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 10:52:17 [INF] Retrieved all artists successfully.
+2026-07-06 10:52:28 [INF] Add artist request received. ArtistName: Ilayaraja
+2026-07-06 10:52:28 [INF] Artist added successfully. ArtistName: Ilayaraja
+2026-07-06 10:52:28 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 10:52:29 [INF] Retrieved all artists successfully.
+2026-07-06 10:52:34 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 10:52:34 [INF] Retrieved all artists successfully.
+2026-07-06 10:52:34 [INF] Fetching artist(s). ArtistId: null
+2026-07-06 10:52:34 [INF] Retrieved all artists successfully.
+2026-07-06 10:52:34 [INF] Albums retrieved successfully for ArtistId: 13
+2026-07-06 10:52:34 [INF] Albums retrieved successfully for ArtistId: 10
+2026-07-06 10:52:34 [INF] Albums retrieved successfully for ArtistId: 8
+2026-07-06 10:52:34 [INF] Albums retrieved successfully for ArtistId: 9
+2026-07-06 10:52:34 [INF] Albums retrieved successfully for ArtistId: 12
+2026-07-06 10:52:35 [INF] Albums retrieved successfully for ArtistId: 13
+2026-07-06 10:52:35 [INF] Albums retrieved successfully for ArtistId: 10
+2026-07-06 10:52:35 [INF] Albums retrieved successfully for ArtistId: 9
+2026-07-06 10:52:35 [INF] Albums retrieved successfully for ArtistId: 12
+2026-07-06 10:52:35 [INF] Albums retrieved successfully for ArtistId: 8
+2026-07-06 14:17:27 [INF] Songs retrieved successfully.
+2026-07-06 14:17:27 [INF] Songs retrieved successfully.
